@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc3b4404-8eac-4731-bea5-5b15e9ee9ba1" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="cc3b4404-8eac-4731-bea5-5b15e9ee9ba1" name="Changes" comment="step 3">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/IfElseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/IfElseDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,11 +77,20 @@
       <option name="project" value="LOCAL" />
       <updated>1758919877390</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="step 3">
+      <option name="closed" value="true" />
+      <created>1758920333659</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758920333659</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="step 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="step 3" />
   </component>
 </project>
